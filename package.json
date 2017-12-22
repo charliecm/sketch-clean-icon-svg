@@ -1,0 +1,11 @@
+{
+  "name": "sketch-clean-icon-svg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "@charliecm",
+  "license": "MIT",
+  "dependencies": {
+    "has-flag": "^2.0.0",
+    "xml2js": "^0.4.19"
+  }
+}
